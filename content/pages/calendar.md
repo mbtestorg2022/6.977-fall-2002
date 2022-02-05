@@ -4,18 +4,207 @@ title: Calendar
 uid: fc9c8c22-d525-6e06-b26a-a067ace66ed1
 ---
 
-| Class # | Topics |
-| --- | --- |
-| 1 | {{< h 3 >}}Background{{< /h >}} {{< br >}}{{< br >}} carrier distributions, pn junctions, carrier injection {{< br >}}{{< br >}}  |
-| 2 | {{< h 3 >}}Photodetectors{{< /h >}} {{< br >}}{{< br >}} absorption in bulk semiconductors, displacement currents, gain-bandwidth limits {{< br >}}{{< br >}}  |
-| 3 | {{< h 3 >}}Modulators{{< /h >}} {{< br >}}{{< br >}} absorption in quantum wells, quantum confined Stark effect {{< br >}}{{< br >}}  |
-| 4 | {{< h 3 >}}Optical amplifiers{{< /h >}} {{< br >}}{{< br >}} population inversion and gain, non-radiative recombination {{< br >}}{{< br >}}  |
-| 5 | {{< h 3 >}}Optical amplifiers{{< /h >}} {{< br >}}{{< br >}} coupled electron-photon rate equations, gain saturation, optical confinement {{< br >}}{{< br >}}  |
-| 6 | {{< h 3 >}}Lasers{{< /h >}} {{< br >}}{{< br >}} Fabry-Perot resonators, lasing threshold {{< br >}}{{< br >}}  |
-| 7 | {{< h 3 >}}Heterostructure materials{{< /h >}} {{< br >}}{{< br >}} optical and electrical properties of alloys, heterostructure band alignment {{< br >}}{{< br >}}  |
-| 8 | {{< h 3 >}}Distributed feedback (DFB) and surface emitting laser resonators{{< /h >}} {{< br >}}{{< br >}} T-matrix formalism and coupled mode theory, grating based resonators {{< br >}}{{< br >}}  |
-| 9 | Review, **midterm** |
-| 10 | {{< h 3 >}}Tunable optics{{< /h >}} {{< br >}}{{< br >}} chirp in semiconductor media, electro-optic effects {{< br >}}{{< br >}}  |
-| 11 | {{< h 3 >}}Modulation{{< /h >}} {{< br >}}{{< br >}} small-signal and large signal analysis {{< br >}}{{< br >}}  |
-| 12 | {{< h 3 >}}Noise in optoelectronic devices{{< /h >}} {{< br >}}{{< br >}} Langevin theory, shot noise limits, relative intensity noise (RIN) of lasers {{< br >}}{{< br >}}  |
-| 13 | {{< h 3 >}}Systems{{< /h >}} {{< br >}}{{< br >}} WDM system design, noise and power budget for fiber optic systems {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Class #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Background
+
+carrier distributions, pn junctions, carrier injection
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Photodetectors
+
+absorption in bulk semiconductors, displacement currents, gain-bandwidth limits
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Modulators
+
+absorption in quantum wells, quantum confined Stark effect
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Optical amplifiers
+
+population inversion and gain, non-radiative recombination
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Optical amplifiers
+
+coupled electron-photon rate equations, gain saturation, optical confinement
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Lasers
+
+Fabry-Perot resonators, lasing threshold
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Heterostructure materials
+
+optical and electrical properties of alloys, heterostructure band alignment
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Distributed feedback (DFB) and surface emitting laser resonators
+
+T-matrix formalism and coupled mode theory, grating based resonators
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Review, **midterm**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Tunable optics
+
+chirp in semiconductor media, electro-optic effects
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Modulation
+
+small-signal and large signal analysis
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Noise in optoelectronic devices
+
+Langevin theory, shot noise limits, relative intensity noise (RIN) of lasers
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Systems
+
+WDM system design, noise and power budget for fiber optic systems
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
