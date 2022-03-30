@@ -4,6 +4,7 @@ description: Problem set on photodetection, electrostatics of heterojunction dio
   and design trade-offs for high speed photodetectors.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/92795b7000aadbdec5d2b9c6efb62a75_ps2.pdf
 file_type: application/pdf
+parent_uid: d9ef5a9d-61f3-a1c8-18bc-09c45f924292
 resourcetype: Document
 title: "Problem Set 2 \u2013 Introduction to Photodetection"
 uid: 92795b70-00aa-dbde-c5d2-b9c6efb62a75
